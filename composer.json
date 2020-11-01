@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": "^7.3",
-        "sylius/resource": "v1.7.0-BETA.3",
+        "sylius/resource": "dev-master",
         "webmozart/assert": "^1.8",
         "zendframework/zend-stdlib": "^3.2"
     },
